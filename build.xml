@@ -5,6 +5,7 @@
 <target name="info">
 
 <echo> Hello World - Welcome to Simplilearn</echo>
+<echo> Hello World - This is 2nd attempt</echo>
 
 </target>
 
